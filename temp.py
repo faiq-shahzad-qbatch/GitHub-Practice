@@ -1,1 +1,1 @@
-print("First branch")
+input("Please enter a number: ")
